@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am a Junior Python Developer from Russia.
+I am a Python Developer from Russia.
 
 - :man_student: I graduated from Bauman Moscow State Technical University.
 
