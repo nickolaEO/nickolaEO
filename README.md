@@ -8,7 +8,7 @@ I am a Python Developer from Russia.
 
 - :man_student: I graduated from Bauman Moscow State Technical University.
 
-- :mechanical_arm: I’m working as a Software Engineer and making the bionic hand to move.
+- :mechanical_arm: I’m working as a Software Engineer.
 
 - :zap: Continuous Exploring Python Web Development.
 
