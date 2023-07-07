@@ -14,7 +14,7 @@ I am a Python Developer from Russia.
 
 - :robot: Want to learn AI programming.
 
-- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/nickolaEO)
+- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickolaEO)
 
 ---
 
