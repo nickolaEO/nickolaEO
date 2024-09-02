@@ -12,7 +12,7 @@ I am a Python Developer from Russia.
 
 - :zap: Continuous Exploring Python Web Development.
 
-- :robot: Want to learn AI programming.
+- :robot: Know AI programming.
 
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nickolaEO)
 
